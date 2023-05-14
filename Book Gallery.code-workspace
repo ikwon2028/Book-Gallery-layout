@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Book Gallery",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Home Page"
+	}
+}
